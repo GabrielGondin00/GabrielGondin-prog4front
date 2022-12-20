@@ -1,0 +1,31 @@
+.formulario01{
+    text-align: center;
+    color: hsl(279, 96%, 44%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+    background-color: rgb(217, 181, 255);
+    margin-left: 500px;
+    margin-right: 500px;;
+    border-radius: 5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    color: hsl(279, 96%, 44%);
+}
+
+input{
+    font-size: 25px;
+    border-radius: 5px;
+    border-color: gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+
+.form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
